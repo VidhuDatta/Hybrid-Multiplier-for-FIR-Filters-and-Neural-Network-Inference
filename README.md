@@ -9,3 +9,5 @@ Wallace Tree Multiplier (WTA) is a parallel multiplier that works on the Wallace
 Advantage: High-speed operation with medium complexity
 
 Disadvantage: Large chip area
+
+To get more information, use https://vlsiverify.com/verilog/verilog-codes/wallace-tree-multiplier/
